@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import mapboxgl from 'mapbox-gl';
 import MapboxDirections from '@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions'
 
-mapboxgl.accessToken = 'pk.eyJ1IjoicHJvZ3JhbW1pbmdoZXJvIiwiYSI6ImNrdXc3OG04MzFsbHgzM255ZnU0NDRtbmsifQ.sEGTkRu5uz5PBIoho1An0w';
+mapboxgl.accessToken = 'pk.eyJ1IjoibmFoaWQ1MSIsImEiOiJja3YwZ3hyNW43bWhnMnFuem5zb3gydmtuIn0.e0p5JVeY7D-8OHCbzP831w';
 
 const MapDirection = () => {
     useEffect(() => {
